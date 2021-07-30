@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "8dd10f5f-120c-45a9-b565-3751f3f67967",
+		"name": "employee collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Localhost 8888",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8888",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8888"
+				}
+			},
+			"response": []
+		}
+	]
+}
